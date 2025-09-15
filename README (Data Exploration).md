@@ -1,5 +1,8 @@
 # Data Exploration Exercise
 
+The project file is too big, so I have attached a link to take you to the project on Google Colab. 
+- **File to Project**: [`Data Exploration Project`  ](https://colab.research.google.com/drive/1skMFJ1814PvmoXlxWzG0yWklFpE2k94n#scrollTo=-0STGTni_RW8)
+
 ## Overview
 This project provides a Python-based machine learning data exploration exercise designed to simplify and accelerate the data cleaning and exploration process.  
 The notebook offers tools and workflows to quickly understand the structure, characteristics, and scope of datasets, ensuring they are ready for further modeling and analysis.
